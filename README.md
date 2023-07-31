@@ -50,3 +50,5 @@ To run the application locally, follow these steps:
 6. Access the application in your web browser at `http://localhost:3001`.
 
 Please note that this is just an overview of the project. For more detailed instructions and implementation details, refer to the code and documentation available in the GitHub repository. Feel free to explore the code, experiment with the chat app, and make any necessary modifications to meet your specific requirements. Enjoy building and customizing your real-time chat application!
+
+Original code created by: Adam La Morre
